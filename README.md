@@ -22,7 +22,7 @@ y la fábrica correcta se encarga del resto.
 
 ---
 
-## ¿Cómo funciona? (Guía paso a paso)
+## ¿Cómo funciona?
 
 **1. Defines el producto como clase abstracta**
 ```java
